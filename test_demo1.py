@@ -6,6 +6,6 @@ def test_secondprogram():
     print("Good Morning")
 
 def test_thirdprogram():
-    print("Gd nght")
+    print("Gd evening")
 
 
