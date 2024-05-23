@@ -6,3 +6,9 @@ def find_largest_4(arr):
 # Example usage
 arr = [5, 1, 8, 7, 2, 6, 3, 4, 10, 9]
 print(find_largest_4(arr))
+
+def summation():
+    a=2
+    b=3
+    print (a+b)
+    
