@@ -4,3 +4,8 @@ def test_firstprogram():
 
 def test_secondprogram():
     print("Good Morning")
+
+def test_thirdprogram():
+    print("Gd nght")
+
+
