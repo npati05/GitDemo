@@ -11,4 +11,9 @@ def summation():
     a=2
     b=3
     print (a+b)
+
+def subs():
+    a=5
+    b=2
+    print (a-b)
     
